@@ -1,6 +1,6 @@
 # entregavel-1-gabriel-henrique
 
->Entregável da primeira semana do processo seletiva da <span style="color:#A040FF">UFRJ Harpia<span>
+>Entregável da primeira semana do processo seletiva da UFRJ Harpia
 
 **Autor:** Gabriel Henrique Freitas Ribeiro
 
